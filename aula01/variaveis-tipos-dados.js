@@ -28,3 +28,9 @@ console.log('Type Of undefined ->', typeof t  ==='undefined');
 var pessoa = {nome : 'Pedro' , idade : 32};
 console.log('Object ->', pessoa);
 console.log('Type Of Object ->', typeof pessoa  ==='object');
+
+//array
+var numeros = [1,2,3,4,5];
+var frutas = ['Morango', 'Kiwi', 'Banana'];
+var pessoas = [{nome : 'X'} , {nome : 'Y'}];
+var mix = [{nome : 'T'} , 1 , 'A'];
